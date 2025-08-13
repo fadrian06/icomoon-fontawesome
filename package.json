@@ -1,4 +1,6 @@
 {
   "name": "@icomoon/fontawesome",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "A custom IcoMoon font with FontAwesome icons",
+  "homepage": "https://github.com/fadrian06/icomoon-fontawesome"
 }
